@@ -3,6 +3,11 @@ html, body{
     width : 100%;
 }
 
+.text-green
+{
+  color : #1aad53;
+}
+
 /* :::::::::::::: Presentation css */
 * {
     margin: 0;
